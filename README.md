@@ -1,7 +1,7 @@
-## Sambhav Jain (He/Him) 
+## Hi, :wave: I am Sambhav Jain (He/Him) 
 
-* Fullstack Software Engineer @[Xencov](https://xencov.com)
-* Current Tech Stack:
+* :fist: Fullstack Software Engineer @[Xencov](https://xencov.com)
+* :metal: Current Tech Stack:
 
 <table>
   <tbody>
