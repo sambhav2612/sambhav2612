@@ -7,12 +7,13 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>JavaScript</strong></span><br><br><br>
+        <span><strong>JavaScript + Node</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">        
       </td>
       <td width="25%" align="center">
-        <span><strong>Node.js</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+        <span><strong>TypeScript</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">        
       </td>
       <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br><br>
@@ -61,7 +62,7 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>AWS</strong></span><br><br><br>
+        <span><strong>AWS (CloudFront + EC2 + S3)</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/aws-cloudfront.svg">
         <img height="64px" src="https://cdn.svgporn.com/logos/aws-ec2.svg">
         <img height="64px" src="https://cdn.svgporn.com/logos/aws-s3.svg">
