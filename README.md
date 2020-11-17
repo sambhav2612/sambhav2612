@@ -17,7 +17,77 @@
 [![Sambhav's github stats](https://github-readme-stats.vercel.app/api?username=sambhav2612&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-80-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 232 Contributions in the Year 2020
+ > 
+> 📦 597.7 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 152 Public Repositories
+ > 
+> 🔑 6 Private Repositories 
+
+**I'm a Night 🦉** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+🌆 Daytime    67 commits     █████████░░░░░░░░░░░░░░░░   38.07% 
+🌃 Evening    77 commits     ███████████░░░░░░░░░░░░░░   43.75% 
+🌙 Night      16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
 ```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
+Tuesday      52 commits     ███████░░░░░░░░░░░░░░░░░░   29.55% 
+Wednesday    20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Thursday     24 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Friday       29 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.48% 
+Saturday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
+Sunday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               25 repos            ████████░░░░░░░░░░░░░░░░░   35.21% 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
+C++                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
+Java                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/sambhav2612/sambhav2612/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
