@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently working at **[@Xencov](https://xencov.com)**
 - ⚙️ I use daily: `.js`, `.jsx`, `.css`, `.scss`
-- 💅 Built: @xencov, [Welexo - Internation Trade Aggregation Platform](https://welexo.com)
+- 💅 Built: @xencov, [Welexo - International Trade Aggregation Platform](https://welexo.com)
 - 🌱 Learning all about **React and Node**
 - 💬 Ping me about **react**, **react-native**, **frontend**, **development**, **design**
 - 📫 Reach me: sambhavjain2612@gmail.com
