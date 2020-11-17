@@ -10,7 +10,7 @@
 - 📫 Reach me: sambhavjain2612@gmail.com
 - ⚡️ My talk on scaling PostgreSQL: https://youtu.be/Mt0Aj0AHrXo
 
-[![Sambhav's github stats](https://github-readme-stats.vercel.app/api?username=sambhav2612)](https://github.com/anuraghazra/github-readme-stats)
+[![Sambhav's github stats](https://github-readme-stats.vercel.app/api?username=sambhav2612&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
