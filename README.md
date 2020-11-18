@@ -18,9 +18,9 @@
 [![Sambhav's github stats](https://github-readme-stats.vercel.app/api?username=sambhav2612&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-114-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-121-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,11 +28,11 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 1 min          ███████████████████░░░░░░   76.79% 
-TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.31% 
-CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+JavaScript               6 hrs 39 mins       ███████████████████░░░░░░   75.69% 
+Other                    1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
+SCSS                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
+CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78% 
+TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
 
 ```
 
