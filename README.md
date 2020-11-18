@@ -6,6 +6,7 @@
 [![mail](https://img.shields.io/badge/gmail-D14836)](mailto:sambhavjain2612@gmail.com)
 [![playstation](https://img.shields.io/badge/playstation-%23003791.svg)](https://psnprofiles.com/sambhav006)
 [![instagram](https://img.shields.io/badge/instagram-%23E4405F.svg)](https://instagram.com/sambhav2612)
+[![resume](https://img.shields.io/badge/resume-%23#FFFF00.svg)](https://mega.nz/file/IjA3yaoB#BFfQg1-aKva0piAd_wWs8Hf5dlnYRQ2ZkwtYwNMzBhA)
 
 - 🏢 I'm currently working at **[@Xencov](https://xencov.com)**
 - ⚙️ I use daily: `.js`, `.jsx`, `.css`, `.scss`
