@@ -26,14 +26,12 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_EDITORS: "False"
-  lowlighter:
-    name: GitHub metrics as SVG image
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GH_TOKEN }}
-          base: "community"
-          plugin_posts: yes
-          plugin_posts_source: dev.to
+          gh_token: ${{ secrets.GH_TOKEN }}
+          feed_list: "https://dev.to/feed/sambhav2612"
