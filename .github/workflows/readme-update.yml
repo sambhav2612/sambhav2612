@@ -34,5 +34,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GH_TOKEN }}
+          base: "community"
           plugin_posts: yes
           plugin_posts_source: dev.to
