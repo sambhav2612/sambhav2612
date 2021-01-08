@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Readme Update
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  update-readme:
+  wakatime:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
@@ -26,3 +26,11 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_EDITORS: "False"
+  lowlighter:
+    name: GitHub metrics as SVG image
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          plugin_posts: yes
+          plugin_posts_source: dev.to
