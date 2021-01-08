@@ -15,10 +15,12 @@
 - 💬 Ping me about **react**, **react-native**, **frontend**, **development**, **design**
 - ⚡️ My talk on scaling PostgreSQL: https://youtu.be/Mt0Aj0AHrXo
 
-[![Sambhav's github stats](https://github-readme-stats.vercel.app/api?username=sambhav2612&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+### 📊 This Week I Spent My Time On 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -34,10 +36,3 @@ Other                    11 mins             ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-### Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Backup Postgres to S3](https://dev.to/sambhav2612/backup-postgres-to-s3-2nkk)
-- [Sort by timestamps (month and year) in PostgreSQL](https://dev.to/sambhav2612/sort-by-timestamps-in-postgresql-2f2h)
-- [Cloning source code of a docker image](https://dev.to/sambhav2612/reverse-engineering-a-docker-image-i8c)
-<!-- BLOG-POST-LIST:END -->
