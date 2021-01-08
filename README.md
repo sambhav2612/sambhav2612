@@ -35,9 +35,6 @@ Other                    11 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### Blog posts
+### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Backup Postgres to S3](https://dev.to/sambhav2612/backup-postgres-to-s3-2nkk)
-- [Sort by timestamps (month and year) in PostgreSQL](https://dev.to/sambhav2612/sort-by-timestamps-in-postgresql-2f2h)
-- [Cloning source code of a docker image](https://dev.to/sambhav2612/reverse-engineering-a-docker-image-i8c)
 <!-- BLOG-POST-LIST:END -->
