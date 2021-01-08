@@ -35,4 +35,6 @@ Other                    11 mins             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![Metrics](https://github.com/sambhav2612/sambhav2612/blob/master/github-metrics.svg)
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
