@@ -8,7 +8,7 @@
 [![resume](https://img.shields.io/badge/resume-%23#FFFF00.svg)](https://mega.nz/file/IjA3yaoB#BFfQg1-aKva0piAd_wWs8Hf5dlnYRQ2ZkwtYwNMzBhA)
 [![dev.to](https://img.shields.io/badge/dev.to-000000.svg)](https://dev.to/sambhav2612)
 
-- 🏢 I'm currently working at **[@Xencov](https://xencov.com)**
+- 🏢 I'm currently working at **[@Xencov](https://xencov.com)**, building [Suitable](https://suitable.ai)
 - ⚙️ I use daily: `.js`, `.jsx`, `.css`, `.scss`
 - 💅 Built @xencov: [Welexo - International Trade Aggregation Platform](https://welexo.com)
 - 🌱 Working on Fullstack (JS + TS)
