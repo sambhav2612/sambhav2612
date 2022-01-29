@@ -40,5 +40,5 @@ Bash                     20 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/01/2022 00:34:19 UTC
+ Last Updated on 29/01/2022 00:36:13 UTC
 <!--END_SECTION:waka-->
