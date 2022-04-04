@@ -23,7 +23,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C765%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C765%20hrs%2031%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,5 +40,5 @@ GraphQL                  19 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/04/2022 13:40:56 UTC
+ Last Updated on 04/04/2022 13:42:47 UTC
 <!--END_SECTION:waka-->
