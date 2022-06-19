@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C969%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C969%20hrs%209%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -38,5 +38,5 @@ CSS                      3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/06/2022 03:09:19 UTC
+ Last Updated on 19/06/2022 03:11:22 UTC
 <!--END_SECTION:waka-->
