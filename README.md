@@ -21,8 +21,22 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C262%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C270%20hrs%2027%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               22 hrs 45 mins      ████████████████░░░░░░░░░   66.1% 
+TypeScript               8 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.46% 
+CSS                      2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
+EJS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+
+```
 
 
- Last Updated on 26/08/2022 02:40:42 UTC
+ Last Updated on 26/08/2022 02:42:31 UTC
 <!--END_SECTION:waka-->
