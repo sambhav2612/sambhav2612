@@ -13,7 +13,7 @@
 - ⚡️ My recent talk on scaling PostgreSQL: https://youtu.be/Mt0Aj0AHrXo
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C113%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C112%20hrs%2041%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -21,16 +21,16 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               26 hrs              ████████████████░░░░░░░░░   64.98 % 
-TypeScript               8 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-CSS                      4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-LESS                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-GraphQL                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+JavaScript               26 hrs 32 mins      ████████████████░░░░░░░░░   65.03 % 
+TypeScript               8 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+CSS                      4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+LESS                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+GraphQL                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 ```
 
 
- Last Updated on 12/02/2023 18:31:14 UTC
+ Last Updated on 12/02/2023 18:32:56 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://app.suitable.ai/login)
