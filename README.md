@@ -18,19 +18,18 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
 JavaScript               21 hrs 47 mins      ████████████████░░░░░░░░░   64.45 % 
 CSS                      6 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-TypeScript               3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+TypeScript               3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 SVG                      26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 XML                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-
 ```
 
 
- Last Updated on 22/02/2023 18:05:45 UTC
+ Last Updated on 22/02/2023 18:06:15 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://app.suitable.ai/login)
