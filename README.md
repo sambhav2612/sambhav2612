@@ -29,7 +29,7 @@ TOML                     29 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/04/2023 23:31:21 UTC
+ Last Updated on 15/04/2023 23:32:03 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://app.suitable.ai/login)
