@@ -29,7 +29,7 @@ CSS                      8 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/08/2023 02:19:36 UTC
+ Last Updated on 08/08/2023 02:20:23 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://suitable.ai)
