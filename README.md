@@ -21,11 +21,13 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               41 mins             ████████████░░░░░░░░░░░░░   46.91 % 
+JavaScript               40 mins             ███████████░░░░░░░░░░░░░░   45.71 % 
+Bash                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 ```
 
 
- Last Updated on 04/10/2023 01:15:26 UTC
+ Last Updated on 04/10/2023 01:16:33 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://suitable.ai)
