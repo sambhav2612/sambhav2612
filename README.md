@@ -29,7 +29,7 @@ HTML                     1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/10/2023 07:15:43 UTC
+ Last Updated on 08/10/2023 07:16:39 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://suitable.ai)
