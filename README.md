@@ -13,8 +13,21 @@
 - ⚡️ My recent talk on scaling PostgreSQL: https://youtu.be/Mt0Aj0AHrXo
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 23/11/2023 01:17:07 UTC
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+JavaScript               8 hrs 11 mins       ██████████████████░░░░░░░   72.09 % 
+TypeScript               2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+EJS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+```
+
+
+ Last Updated on 23/11/2023 01:18:03 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://suitable.ai)
