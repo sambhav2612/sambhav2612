@@ -13,21 +13,8 @@
 - ⚡️ My recent talk on scaling PostgreSQL: https://youtu.be/Mt0Aj0AHrXo
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C796%20hrs%2015%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               4 hrs 46 mins       ██████████████████░░░░░░░   71.76 % 
-TypeScript               1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-```
-
-
- Last Updated on 19/11/2023 13:15:24 UTC
+ Last Updated on 23/11/2023 01:17:07 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://suitable.ai)
