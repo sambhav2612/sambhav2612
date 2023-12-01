@@ -15,21 +15,8 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C818%20hrs-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               7 hrs               ████████████░░░░░░░░░░░░░   48.20 % 
-TypeScript               6 hrs 28 mins       ███████████░░░░░░░░░░░░░░   44.57 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-```
-
-
- Last Updated on 01/12/2023 01:59:18 UTC
+ Last Updated on 01/12/2023 02:00:11 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://suitable.ai)
