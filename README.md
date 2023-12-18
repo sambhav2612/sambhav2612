@@ -13,7 +13,7 @@
 - ⚡️ My recent talk on scaling PostgreSQL: https://youtu.be/Mt0Aj0AHrXo
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C826%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C826%20hrs%2040%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,7 +29,7 @@ Git Config               0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 18/12/2023 09:45:03 UTC
+ Last Updated on 18/12/2023 09:45:58 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://suitable.ai)
