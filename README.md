@@ -21,13 +21,12 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 40 mins        ███████████████░░░░░░░░░░   58.16 % 
-TypeScript               1 hr 12 mins        ██████████░░░░░░░░░░░░░░░   41.80 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JavaScript               0 secs              ██████████████████████░░░   86.69 % 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 ```
 
 
- Last Updated on 14/02/2024 18:30:28 UTC
+ Last Updated on 14/02/2024 18:31:28 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://suitable.ai)
