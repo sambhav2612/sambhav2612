@@ -26,7 +26,7 @@ Other                    6 mins              ███████████�
 ```
 
 
- Last Updated on 11/03/2024 11:58:57 UTC
+ Last Updated on 11/03/2024 11:59:59 UTC
 <!--END_SECTION:waka-->
 
 [![Ampliy your job reach by tapping into 1000+ verified recuiters](https://user-images.githubusercontent.com/19583619/212717528-45b497fd-e886-4452-90fe-93829667bd63.png)](https://suitable.ai)
