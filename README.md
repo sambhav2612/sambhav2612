@@ -6,7 +6,7 @@
 [![Mail](https://img.shields.io/badge/gmail-D14836)](mailto:sambhavjain2612@gmail.com)
 [![Resume](https://img.shields.io/badge/resume-%23#FFFF00.svg)](https://mega.nz/file/IjA3yaoB#BFfQg1-aKva0piAd_wWs8Hf5dlnYRQ2ZkwtYwNMzBhA)
 
-- 🏢 Currently building [Suitable AI](https://suitable.ai), a Global Talent Marketplace.
+- 🏢 Currently building [VTS](https://vts.com)
 - 💅 Built [@xencov](https://github.com/xencov): [Welexo - EXIM Data Aggregator Platform](https://welexo.com)
 - 🌱 Working on MERN, GSuite, Slack and AWS
 - 💬 Ping me about **architecture**, **fullstack**, **development**, **design**
