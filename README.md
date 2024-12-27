@@ -21,10 +21,9 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               4 mins              ████████████████████░░░░░   78.19 % 
-JavaScript               1 min               █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/12/2024 18:30:20 UTC
+ Last Updated on 27/12/2024 18:31:35 UTC
 <!--END_SECTION:waka-->
