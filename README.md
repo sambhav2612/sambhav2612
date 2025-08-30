@@ -13,6 +13,8 @@
 - ⚡️ My recent talk on scaling PostgreSQL: https://youtu.be/Mt0Aj0AHrXo
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C876%20hrs%2048%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -23,5 +25,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/08/2025 18:34:43 UTC
+ Last Updated on 30/08/2025 18:36:03 UTC
 <!--END_SECTION:waka-->
