@@ -21,12 +21,9 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     1 hr 28 mins        █████████████████░░░░░░░░   68.12 % 
-TypeScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/03/2026 18:31:38 UTC
+ Last Updated on 13/03/2026 18:33:24 UTC
 <!--END_SECTION:waka-->
