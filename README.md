@@ -21,9 +21,13 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               29 mins             █████████░░░░░░░░░░░░░░░░   37.30 % 
+Markdown                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
+Java                     15 mins             █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Python                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 
 
- Last Updated on 30/03/2026 18:30:41 UTC
+ Last Updated on 30/03/2026 18:32:20 UTC
 <!--END_SECTION:waka-->
