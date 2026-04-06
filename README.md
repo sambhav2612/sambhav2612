@@ -21,13 +21,11 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               1 hr 18 mins        ████████████░░░░░░░░░░░░░   46.69 % 
-Markdown                 57 mins             ████████░░░░░░░░░░░░░░░░░   33.98 % 
-Java                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Python                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               49 mins             ██████████████░░░░░░░░░░░   55.04 % 
+Markdown                 39 mins             ███████████░░░░░░░░░░░░░░   44.49 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 
- Last Updated on 06/04/2026 18:30:37 UTC
+ Last Updated on 06/04/2026 18:32:19 UTC
 <!--END_SECTION:waka-->
